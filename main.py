@@ -15,7 +15,7 @@ popular_item = "Standard Wilson Basketball"
 has_delivery = True
 #this is a boolean that tells us if delivery is available for the store
 
-product_names = ['Standard Wilson Basketball', 'Kids basketball hoop', 'Standard height adjustable basketball stand', 'Sport socks', 'Waterbotlle']
+product_names = ['Standard Wilson Basketball', 'Kids basketball hoop', 'Standard height adjustable basketball stand', 'Sport socks', 'Waterbottle']
 #this is a list that tells us the names of the products
 
 business_hours = "9 AM - 9 PM"
